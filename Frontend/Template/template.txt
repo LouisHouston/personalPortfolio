@@ -1,0 +1,10 @@
+
+For the navbar
+
+<header>
+        <ul>   
+            <li><a href="index.html">Home</a></li>
+            <li><a href="Projects.html">Projects</a></li>
+            <li><a href="about.html">About</a></li>  
+        </ul>
+    </header>
